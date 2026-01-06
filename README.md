@@ -1,2 +1,5 @@
 # cypress-from-zero-to-hero
-complete 🌲 Cypress E2E test automation course with JavaScript
+
+A comprehensive course that provides an in-depth understanding of the Cypress testing environment.
+
+![cypress-ZH]()
